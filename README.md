@@ -15,5 +15,6 @@ sudo apt install python3-pyfiglet
 2. cd SkyHawk.PY (Ir al repositorio)
 3. ls (Visualizar que el skyhawk.py esté dentro)
 4. chmod +x skyhawk.py (Dar permisos al code)
-5. Usar y disfrutar la herramienta !!
+5. python3 skyhawk.py (Para Inicar)
+6. Usar y disfrutar la herramienta !!
 ```
